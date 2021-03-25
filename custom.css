@@ -1,0 +1,6 @@
+.cover {
+ background-image: url("background.jpg");
+ background-position: center;
+ background-size: cover;
+ min-height: 150px;
+}
